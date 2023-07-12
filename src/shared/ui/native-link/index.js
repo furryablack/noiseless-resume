@@ -1,0 +1,1 @@
+export { default as NativeLink } from './native-link.vue'; 

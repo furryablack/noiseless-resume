@@ -1,0 +1,1 @@
+export { default as SummaryInfo } from './summary-info.vue'; 

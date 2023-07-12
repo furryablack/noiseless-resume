@@ -1,0 +1,1 @@
+export { default as ContactToMe } from './contact-to-me.vue'; 

@@ -1,0 +1,1 @@
+export { default as KeyHighlights } from './кey-highlights.vue'; 

@@ -1,0 +1,1 @@
+export { default as PageFrame } from './page-frame.vue'; 
